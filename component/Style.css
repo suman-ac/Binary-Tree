@@ -1,0 +1,35 @@
+button{
+    margin:20px;
+    padding:10px;
+    width:110px;
+    border-radius: 8px;
+    background-color: rgb(46, 133, 158);
+    border:0px solid  rgb(46, 133, 158);
+    color:white;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:skyblue;
+}
+
+nav{
+    background-color: skyblue;
+    padding-top: 4px;
+    position: sticky;
+    padding-bottom:10px;
+}
+h1{
+    color:white;
+}
+
+input {
+    padding:8px;
+    border-radius: 7px;
+    border:2px solid skyblue;
+    font-size: 15px;
+    color: green;
+    
+    
+}
